@@ -1,0 +1,3 @@
+# DragRVItem
+可以拖动recyclerview的item到其它任意地方的一个小功能
+
